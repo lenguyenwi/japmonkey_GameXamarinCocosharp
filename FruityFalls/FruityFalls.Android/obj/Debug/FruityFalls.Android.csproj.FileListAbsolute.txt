@@ -1,0 +1,383 @@
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.pdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.apk
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android-Signed.apk
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.dll
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.dll
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.dll
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.pdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.xml
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.xml
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.xml
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.csprojResolveAssemblyReference.cache
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.pdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\bin\FruityFalls.Android.apk
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\layout\main.xml
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\values\strings.xml
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\R.cs.flag
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\uploadflags.txt
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dllFruityFalls.Android.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dllFruityFalls.Common.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\Mono.Android.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\mscorlib.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\OpenTK-1.0.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.ComponentModel.DataAnnotations.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Core.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Numerics.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.ServiceModel.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Xml.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\Java.Interop.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Android.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Common.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\OpenTK-1.0.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\lv.nguyen\Downloads\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android-Signed.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.csprojResolveAssemblyReference.cache
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\bin\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\layout\main.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\values\strings.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\R.cs.flag
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\uploadflags.txt
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dllFruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dllFruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.ComponentModel.DataAnnotations.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Numerics.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.ServiceModel.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android-Signed.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.csprojResolveAssemblyReference.cache
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\bin\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\res\layout\main.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\res\values\strings.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\R.cs.flag
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\uploadflags.txt
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dllFruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dllFruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\System.ComponentModel.DataAnnotations.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\System.Numerics.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\System.ServiceModel.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls1\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android-Signed.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.csprojResolveAssemblyReference.cache
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\bin\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\res\layout\main.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\res\values\strings.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\R.cs.flag
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\uploadflags.txt
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android-Signed.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.csprojResolveAssemblyReference.cache
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\bin\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\res\layout\main.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\res\values\strings.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\R.cs.flag
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\uploadflags.txt
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\bin\Debug\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls8Jumping\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android-Signed.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.csprojResolveAssemblyReference.cache
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\bin\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\res\layout\main.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\res\values\strings.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\R.cs.flag
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\uploadflags.txt
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\bin\Debug\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls9Good - Copy\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android-Signed.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\CocosSharp.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\Lidgren.Network.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\MonoGame.Framework.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.csprojResolveAssemblyReference.cache
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.pdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\bin\FruityFalls.Android.apk
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\res\layout\main.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\res\values\strings.xml
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\R.cs.flag
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\uploadflags.txt
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\bin\Debug\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\FruityFalls.Common.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\OpenTK-1.0.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFalls11VeryGood\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\obj\Debug\FruityFalls.Android.dll.mdb
+C:\workspace\VS\thugian\backup\Japmonkey2\FruityFallsDesign\FruityFalls\FruityFalls.Android\bin\Debug\FruityFalls.Android.dll.mdb
